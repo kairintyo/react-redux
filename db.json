@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "date": "2019-12-20T17:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "CSS is easy",
+      "date": "2019-12-20T18:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "Ruby is easy",
+      "date": "2019-12-20T19:30:31.098Z",
+      "important": true
+    },
+    {
+      "content": "新規作成",
+      "date": "2020-01-11T06:36:21.204Z",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "a new note...",
+      "date": "2020-01-11T06:43:46.978Z",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "新規テスト",
+      "date": "2020-01-11T06:44:08.798Z",
+      "important": false,
+      "id": 6
+    }
+  ]
+}
